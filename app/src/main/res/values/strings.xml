@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CustomDrawerNavigation</string>
+    <string name="drawer_open">Navigation Drawer Opened</string>
+    <string name="drawer_closed">Navigation Drawer Closed</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_animation">Animation</string>
+    <string name="menu_timer">Timer</string>
+    <!-- Home Fragment -->
+    <string name="home_title">Hello home fragment</string>
+    <!-- Animation Fragment -->
+    <string name="animation_title">Hello animation fragment</string>
+    <!-- Timer Fragment -->
+    <string name="timer_title">Hello timer fragment</string>
+</resources>
